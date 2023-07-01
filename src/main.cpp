@@ -12,8 +12,8 @@
 #define NUM_LEDS 1
 #define DATA_PIN GPIO_NUM_0
 
-const char* ssid = "Connect-YC";
-const char* password = "13083278337";
+const char* ssid = "你的WIFI名称";
+const char* password = "你的WIFI密码";
 
 #define NTP1 "ntp1.aliyun.com"
 #define NTP2 "ntp2.aliyun.com"
